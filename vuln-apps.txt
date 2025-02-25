@@ -1,2 +1,2 @@
-/bash/CVE-2014-6271/docker-compose.yml
-/elasticsearch/CVE-2015-1427/docker-compose.yml
+/bash/CVE-2014-6271
+/elasticsearch/CVE-2015-1427
