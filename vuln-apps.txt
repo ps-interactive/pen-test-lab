@@ -1,2 +1,2 @@
-/bash/CVE-2014-6271
+/openssl/CVE-2014-0160
 /elasticsearch/CVE-2015-1427
